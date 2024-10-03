@@ -1,4 +1,5 @@
 # Rescue Robot - Human Detection Module
+This repository provides the code/firmware for the human detection module (ESP32S3) which allows the robot to do advance distress sound direction detection and human (victim) detection.
 
 ## Target Board
 ESP32S3
